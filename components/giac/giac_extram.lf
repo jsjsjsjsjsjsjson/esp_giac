@@ -1,0 +1,4 @@
+[mapping:giac_to_extram_bss]
+archive: libgiac.a
+entries:
+    * (extram_bss)
